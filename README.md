@@ -2,8 +2,8 @@
 
 Me llamo **Santos Alarcón Asensio**, y soy manchego de nacimiento. Soy un entusiasta de la tecnología, que le encanta ponerse al día de todo (aunque con ciertos límites), tanto en tema **hardware**, **software** y **entretenimiento**. En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Full Stack**..
 
-### ¿Qué estoy haciendo ahora?
-Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
+### ¿Qué estoy haciendo ahora? 🤔
+Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. Estoy planeando sacar un **portfolio** que me servirá para darme a conocer a empresas.
 
 ### Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral, bien por mi [LinkedIn](https://www.linkedin.com/in/santos-alarcon-asensio) o por mi correo electrónico [santosalarcon86@gmail.com](mailto:santosalarcon86@gmail.com).
