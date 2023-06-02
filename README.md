@@ -7,6 +7,12 @@ Me llamo **Santos Alarcón Asensio**, y soy manchego de nacimiento. Soy un entus
 ### ¿Qué estoy haciendo ahora? 🤔
 Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. Estoy planeando sacar un **portfolio** que me servirá para darme a conocer a empresas.
 
+### Tecnologías con las que trabajo
+## Front-End
+<div>
+  <img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg">
+</div>
+
 ### Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral, bien por mi [LinkedIn](https://www.linkedin.com/in/santos-alarcon-asensio) o por mi correo electrónico [santosalarcon86@gmail.com](mailto:santosalarcon86@gmail.com).
 
