@@ -16,13 +16,17 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
   <img width="40" height="40" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img width="40" height="40" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img width="40" height="40" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
-    <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg">
-      <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67">
+  <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+  <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67">
 </div>
 
 ## Back-End
-<img width="40" height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
-<img width="40" height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
+<div>
+  <img width="40" height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+  <img width="40" height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
+  <img width="40" height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
+  <img width="40" height="40" alt="SQL" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sql/sql-original.svg">
+</div>
 
 ### Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral, bien por mi [LinkedIn](https://www.linkedin.com/in/santos-alarcon-asensio) o por mi correo electrónico [santosalarcon86@gmail.com](mailto:santosalarcon86@gmail.com).
