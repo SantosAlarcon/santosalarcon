@@ -1,5 +1,3 @@
-[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santos-alarcon-asensio)
-
 ### Sobre mí 👋
 
 Me llamo **Santos Alarcón Asensio**, y soy manchego de nacimiento. Soy un entusiasta de la tecnología, que le encanta ponerse al día de todo (aunque con ciertos límites), tanto en tema **hardware**, **software** y **entretenimiento**. En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Full Stack**..
@@ -25,11 +23,13 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
   <img width="40" height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img width="40" height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
   <img width="40" height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
-  <img width="40" height="40" alt="SQL" title="SQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sql/sql-original.svg">
+  <img width="40" height="40" alt="Git" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
 </div>
 
 ### Contacto
-Podéis poneros en contacto conmigo para cualquier oportunidad laboral, bien por mi [LinkedIn](https://www.linkedin.com/in/santos-alarcon-asensio) o por mi correo electrónico [santosalarcon86@gmail.com](mailto:santosalarcon86@gmail.com).
+Podéis poneros en contacto conmigo para cualquier oportunidad laboral:
+* [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santos-alarcon-asensio)
+* ✉️ [Correo electrónico](mailto:santosalarcon86@gmail.com).
 
 <!--
 **SantosAlarcon/santosalarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
