@@ -22,6 +22,7 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
 
 ## Back-End
 <img width="40" height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
+<img width="40" height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
 
 ### Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral, bien por mi [LinkedIn](https://www.linkedin.com/in/santos-alarcon-asensio) o por mi correo electrónico [santosalarcon86@gmail.com](mailto:santosalarcon86@gmail.com).
