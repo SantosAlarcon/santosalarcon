@@ -1,3 +1,5 @@
+!(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)
+
 ### Sobre mí 👋
 
 Me llamo **Santos Alarcón Asensio**, y soy manchego de nacimiento. Soy un entusiasta de la tecnología, que le encanta ponerse al día de todo (aunque con ciertos límites), tanto en tema **hardware**, **software** y **entretenimiento**. En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Full Stack**..
