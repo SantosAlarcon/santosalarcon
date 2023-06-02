@@ -20,6 +20,7 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
 
 ### Back-End
 <div>
+  <img width="40" height="40" alt="Python" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
   <img width="40" height="40" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img width="40" height="40" alt="Express" title="Express" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg">
   <img width="40" height="40" alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg">
@@ -29,7 +30,7 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
 ### Herramientas de trabajo
 <div>
   <img width="40" height="40" alt="Visual Studio Code" title="Visual Studio Code" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg">
-  <img width="40" height="40" alt="Neovim" title="Neovim" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/neovim/neovim-original.svg">
+  <img width="40" height="40" alt="Neovim" title="Neovim" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg">
 </div>
 
 ## Contacto
