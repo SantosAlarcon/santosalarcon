@@ -15,6 +15,9 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
   <img width="40" height="40" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img width="40" height="40" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img width="40" height="40" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img width="40" height="40" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+    <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original.svg">
+      <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/framer-motion/framer-motion-original.svg">
 </div>
 
 ### Contacto
