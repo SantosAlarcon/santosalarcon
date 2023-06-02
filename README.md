@@ -36,7 +36,7 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
 ## Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral:
 * [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santos-alarcon-asensio)
-* ✉️ [Correo electrónico](mailto:santosalarcon86@gmail.com).
+* ✉️ [Correo electrónico](mailto:santosalarcon86@gmail.com)
 
 <!--
 **SantosAlarcon/santosalarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
