@@ -1,4 +1,4 @@
-[!(https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santos-alarcon-asensio)
+[![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santos-alarcon-asensio)
 
 ### Sobre mí 👋
 
