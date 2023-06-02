@@ -14,6 +14,7 @@ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mi
   <img width="40" height="40" alt="CSS3" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
   <img width="40" height="40" alt="JavaScript" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg">
   <img width="40" height="40" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
+  <img width="40" height="40" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
 </div>
 
 ### Contacto
