@@ -7,7 +7,7 @@ Me llamo **Santos Alarcón Asensio**, y soy manchego de nacimiento. Soy un entus
 Cuando no estoy trabajando o desarrollando, soy **aficionado a la cultura japonesa**, **videojuegos**, **frikismo** y la **música (80s, 90s, 2000s, remember, trance, synthwave)**.
 
 ## ¿Qué estoy haciendo ahora? 🤔
-Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. Estoy planeando sacar un **portfolio** que me servirá para darme a conocer a empresas.
+Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. Estoy desarrollando un **portfolio** que me servirá para darme a conocer a empresas, pero todavía no está publicado.
 
 ## Tecnologías con las que trabajo
 ### Front-End
