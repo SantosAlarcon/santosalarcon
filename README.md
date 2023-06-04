@@ -1,6 +1,6 @@
 ![](SantosAlarconLogo.png)
 
-## Sobre mí 👋
+## Sobre mí
 
 + Me llamo **Santos Alarcón Asensio**
 + Soy manchego de nacimiento.
