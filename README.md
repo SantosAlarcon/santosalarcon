@@ -1,6 +1,6 @@
 ![](SantosAlarconLogo.png)
 
-## Sobre mí
+## Sobre mí 🖖
 
 + Me llamo **Santos Alarcón Asensio**
 + Soy manchego de nacimiento.
@@ -10,6 +10,7 @@
 
 ## ¿Qué estoy haciendo ahora? 🤔
 Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. Estoy desarrollando un **portfolio** que me servirá para darme a conocer a empresas, pero todavía no está publicado.
+Mis planes futuros serán aprender **SaSS** y **MongoDB**.
 
 ## Tecnologías con las que trabajo
 ### Front-End
