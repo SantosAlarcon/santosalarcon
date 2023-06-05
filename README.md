@@ -9,8 +9,8 @@
 + Cuando no estoy trabajando o desarrollando, soy **aficionado a la cultura japonesa**, **videojuegos**, **frikismo** y la **música (80s, 90s, 2000s, remember, trance, synthwave)**.
 
 ## ¿Qué estoy haciendo ahora? 🤔
-Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. Estoy desarrollando un **portfolio** que me servirá para darme a conocer a empresas, pero todavía no está publicado.
-Mis planes futuros serán aprender **SaSS** y **MongoDB**.
++ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. + Estoy desarrollando un **portfolio** que me servirá para darme a conocer a empresas, pero todavía no está publicado.
++ Mis planes futuros serán aprender **SaSS** y **MongoDB**. Ahora estoy haciendo el curso de **Python Full Stack** de **IBM SkillsBuild**, y cuando acabe me pondré con el **Stack MERN** (MongoDB, Express, React, Node) de [**OpenBootCamp**](https://www.open-bootcamp.com).
 
 ## Tecnologías con las que trabajo
 ### Front-End
