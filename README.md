@@ -41,9 +41,9 @@
 </div>
 
 ## Contacto
-Podéis poneros en contacto conmigo para cualquier oportunidad laboral:
-<a href="https://www.linkedin.com/in/santos-alarcon-asensio" target="_blank"><img width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="mail:santosalarcon86@gmail.com"><img width="128" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
+Podéis poneros en contacto conmigo para cualquier oportunidad laboral:<br />
+<a href="https://www.linkedin.com/in/santos-alarcon-asensio" target="_blank"><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mail:santosalarcon86@gmail.com"><img width="48" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
 <!--
 **SantosAlarcon/santosalarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
