@@ -42,8 +42,8 @@
 
 ## Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral:
-* [![](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/santos-alarcon-asensio)
-* ✉️ [Correo electrónico](mailto:santosalarcon86@gmail.com)
+[![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/santos-alarcon-asensio)
+<a href="mail:santosalarcon86@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 
 <!--
 **SantosAlarcon/santosalarcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
