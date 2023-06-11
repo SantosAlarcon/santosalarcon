@@ -43,7 +43,7 @@
 ## Contacto
 Podéis poneros en contacto conmigo para cualquier oportunidad laboral:
 <div style=display: flex; align-items: center; gap: .5em;>
-  <a href="https://www.linkedin.com/in/santos-alarcon-asensio" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/santos-alarcon-asensio"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="mailto:santosalarcon86@gmail.com"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/></a>
 </div>
 
