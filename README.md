@@ -2,11 +2,12 @@
 
 ## Sobre mí 🖖
 
-+ Me llamo **Santos Alarcón Asensio**
-+ Soy manchego de nacimiento.
++ Me llamo **Santos Alarcón Asensio**.
++ Soy manchego de nacimiento, concretamente de la provincia de **Ciudad Real**.
 + Soy un entusiasta de la tecnología, que le encanta ponerse al día de todo (aunque con ciertos límites), tanto en tema **hardware**, **software** y **entretenimiento**. 
 + En mi GitHub encontraréis proyectos relacionados al tema de programación, sobre todo **Full Stack**.
 + Cuando no estoy trabajando o desarrollando, soy **aficionado a la cultura japonesa**, **videojuegos**, **frikismo** y la **música (80s, 90s, 2000s, remember, trance, synthwave)**.
++ En mi portátil tengo instalado **Arch Linux**, pero todavía no tengo pegatinas de las tecnologías Web.
 
 ## ¿Qué estoy haciendo ahora? 🤔
 + Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
