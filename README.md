@@ -11,8 +11,8 @@
 
 ## ¿Qué estoy haciendo ahora? 🤔
 + Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
-+ Estoy realizando un proyecto que consiste en un conversor/compresor de imágenes.
-+ Mis planes futuros serán aprender **SaSS** y **MongoDB**. Ahora estoy haciendo el curso de **Python Full Stack** de **IBM SkillsBuild**, y cuando acabe me pondré con el **Stack MERN** (MongoDB, Express, React, Node) de [**OpenBootCamp**](https://www.open-bootcamp.com).
++ Para 2024 tengo intención de aprender cómo funciona **NextJS** y el **Server Side Rendering**.
++ También voy a desarrollar en 2024 un proyecto que se basa en un gestor de marcadores, creada con **React** y contará con autenticación.
 
 ## Tecnologías con las que trabajo
 ### Front-End
