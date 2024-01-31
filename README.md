@@ -25,6 +25,7 @@
   <img width="40" height="40" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
   <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
   <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67">
+  <img width="40" height="40" alt="Next JS" title="Next JS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
 </div>
 
 ### Back-End
