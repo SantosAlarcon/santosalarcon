@@ -10,9 +10,9 @@
 + En mi portátil tengo instalado **Arch Linux**, pero todavía no tengo pegatinas de las tecnologías Web.
 
 ## ¿Qué estoy haciendo ahora? 🤔
-+ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador.
++ Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. No descarto trabajar también como **desarrollador front-end**.
 + Para 2024 tengo intención de aprender cómo funciona **NextJS** y el **Server Side Rendering**.
-+ También voy a desarrollar en 2024 un proyecto que se basa en un gestor de marcadores, creada con **React** y contará con autenticación.
++ Estoy desarrollando **Bookmarker**, un gestor de marcadores, creado con **NextJS** y utiliza **Supabase** para la autenticación y base de datos.
 
 ## Tecnologías con las que trabajo
 ### Front-End
