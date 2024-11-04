@@ -11,8 +11,8 @@
 
 ## ¿Qué estoy haciendo ahora? 🤔
 + Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. No descarto trabajar también como **desarrollador front-end**.
-+ Para 2024 tengo intención de aprender cómo funciona **NextJS** y el **Server Side Rendering**.
-+ Estoy desarrollando **Bookmarker**, un gestor de marcadores, creado con **NextJS** y utiliza **Supabase** para la autenticación y base de datos.
++ Mi propósito para este 2024 es aprender a dominar **NextJS** y conocer en profundidad el **Server Side Rendering**.
++ Estoy desarrollando **Bookmarker**, un gestor de marcadores, creado con **NextJS** y utiliza **Supabase** para la autenticación y base de datos. Además tengo otro proyecto, llamado **Next Keep**, un gestor de notas que usa **Markdown** para el estilado. Este proyecto también está construído con **NextJS**.
 
 ## Tecnologías con las que trabajo
 ### Front-End
@@ -24,7 +24,7 @@
   <img width="40" height="40" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img width="40" height="40" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
   <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
-  <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://camo.githubusercontent.com/179d66ab2b0321726c88a586c4ad38802e7113a3c98c6fd3f0156c01c98cfd14/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67">
+  <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://camo.githubusercontent.com/ab6512bb782e2156702db4ecd044403b0517e42d42f515b26a6d5502c25f29b4/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67">
   <img width="40" height="40" alt="Next JS" title="Next JS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
 </div>
 
