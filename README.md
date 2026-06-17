@@ -13,7 +13,7 @@
 
 ## ¿Qué estoy haciendo ahora? 🤔
 + Ahora estoy en búsqueda activa de empleo como **programador Full-Stack**, al mismo tiempo que voy formándome en tecnologías que me permitan crecer como desarrollador. No descarto trabajar también como **desarrollador front-end**.
-+ Mi propósito para este 2024 es aprender a dominar **NextJS** y conocer en profundidad el **Server Side Rendering**.
++ Mi propósito para este 2026 es meterme de lleno en la **programación agéntica**, **Spec-Driven Development** y mejorar el enfoque en la **accesibilidad**.
 + Estoy desarrollando **Bookmarker**, un gestor de marcadores, creado con **NextJS** y utiliza **Supabase** para la autenticación y base de datos. Además tengo otro proyecto, llamado **Next Keep**, un gestor de notas que usa **Markdown** para el estilado. Este proyecto también está construído con **NextJS**.
 
 ## Tecnologías con las que trabajo
