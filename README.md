@@ -25,8 +25,8 @@
   <img width="40" height="40" alt="TypeScript" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img width="40" height="40" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
   <img width="40" height="40" alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
-  <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg">
-  <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://camo.githubusercontent.com/ab6512bb782e2156702db4ecd044403b0517e42d42f515b26a6d5502c25f29b4/68747470733a2f2f6672616d657275736572636f6e74656e742e636f6d2f696d616765732f34386861395a52396f5a51475136675a38595566456c50335430412e706e67">
+  <img width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/tailwindcss/tailwindcss-original.svg">
+  <img width="40" height="40" alt="Framer Motion" title="Framer Motion" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/framermotion/framermotion-original.svg">
   <img width="40" height="40" alt="Next JS" title="Next JS" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
 </div>
 
